@@ -1,0 +1,25 @@
+
+.buttonstyle{
+    background-color: rgb(4, 93, 93);
+    color: white;
+}
+.formstyle{
+   
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+    
+    flex-direction: row;
+}
+.custombody{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.buttonstyle{
+    align-items: center;
+}
